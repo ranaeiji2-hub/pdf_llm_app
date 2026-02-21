@@ -3,6 +3,8 @@ import pickle
 import requests
 import numpy as np
 
+# push 02210933
+
 # ---------- Ollama ----------
 OLLAMA_EMBED_URL = "http://host.docker.internal:11434/api/embeddings"
 OLLAMA_CHAT_URL  = "http://host.docker.internal:11434/api/chat"
