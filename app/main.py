@@ -9,6 +9,8 @@ def index():
     <html>
       <body>
         <h1>🐍 pdf_llm_app 起動成功</h1>
+        <h2>バージョン</h2>
+        <p>02221518</p>
       </body>
     </html>
     """
